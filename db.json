@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC",
+      "price": 2.5
+    },
+    {
+      "id": 2,
+      "name": "Bola de Basquete",
+      "price": 79.9
+    },
+    {
+      "id": 3,
+      "name": "Fone de ouvido",
+      "price": 59
+    },
+    {
+      "id": 4,
+      "name": "Jacaré",
+      "price": "1099.50"
+    },
+    {
+      "id": 5,
+      "name": "Relógio Digital",
+      "price": "35.50"
+    },
+    {
+      "id": 6,
+      "name": "Mouse e Teclado",
+      "price": "140.00"
+    },
+    {
+      "id": 7,
+      "name": "Xbox One",
+      "price": "1200"
+    },
+    {
+      "id": 8,
+      "name": "Iphone 13",
+      "price": "7000"
+    },
+    {
+      "id": 9,
+      "name": "Geladeira",
+      "price": "3596.99"
+    },
+    {
+      "id": 10,
+      "name": "Nikon P900",
+      "price": "6300.99"
+    },
+    {
+      "id": 11,
+      "name": "CD do Akon",
+      "price": "39.90"
+    },
+    {
+      "id": 12,
+      "name": "Garrafa de Água",
+      "price": "3.50"
+    }
+  ]
+}
